@@ -1,13 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6f89182-8609-4924-8c3f-e644f49b9db5" name="Default Changelist" comment="" />
+    <list default="true" id="e6f89182-8609-4924-8c3f-e644f49b9db5" name="Default Changelist" comment="squash! Imported starter-code to work away from">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XRp6vZteMn8pW9wTAl5iMn674R" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -16,10 +30,39 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="yarn" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="ts.external.directory.path" value="C:\Users\hsvoss\Desktop\Projekte\zwitscher\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hsvoss\Desktop\Projekte\zwitscher\src\utils" />
+      <recent name="C:\Users\hsvoss\Desktop\Projekte\zwitscher\src\components" />
+      <recent name="C:\Users\hsvoss\Desktop\Projekte\zwitscher\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -28,8 +71,65 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581018590487</updated>
-      <workItem from="1581018593937" duration="1000" />
+      <workItem from="1581018593937" duration="166000" />
+      <workItem from="1581018946769" duration="606000" />
     </task>
+    <task id="LOCAL-00001" summary="Imported">
+      <created>1581020235317</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581020235317</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Imported" />
+    <option name="LAST_COMMIT_MESSAGE" value="Imported" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3145" y="115" key="CommitChangelistDialog2" timestamp="1581020266952">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3145" y="115" key="CommitChangelistDialog2/0.0.1707.920/2560.0.1920.1040@2560.0.1920.1040" timestamp="1581020266952" />
+    <state x="3300" y="262" key="FileChooserDialogImpl" timestamp="1581020168129">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3300" y="262" key="FileChooserDialogImpl/0.0.1707.920/2560.0.1920.1040@2560.0.1920.1040" timestamp="1581020168129" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1581020216214">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1707.920/2560.0.1920.1040@2560.0.1920.1040" timestamp="1581020216214" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1581020216214">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1707.920/2560.0.1920.1040@2560.0.1920.1040" timestamp="1581020216214" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1581020216214">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1707.920/2560.0.1920.1040@2560.0.1920.1040" timestamp="1581020216214" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1581020216214">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1707.920/2560.0.1920.1040@2560.0.1920.1040" timestamp="1581020216214" />
+    <state x="3261" y="262" key="git4idea.rebase.GitRebaseEditor" timestamp="1581020290588">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3261" y="262" key="git4idea.rebase.GitRebaseEditor/0.0.1707.920/2560.0.1920.1040@2560.0.1920.1040" timestamp="1581020290588" />
   </component>
 </project>
